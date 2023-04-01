@@ -1,0 +1,19 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.border-active {
+    border-color: red;
+    /* background: antiquewhite; */
+    background: #fff5e7;
+  }
+  
+  .border-completed {
+    border-color: blue;
+    background: aliceblue;
+  }
+  
